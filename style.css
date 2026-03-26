@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #0f172a;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #22c55e;
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.services {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.card {
+    background: #1e293b;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cta {
+    text-align: center;
+    padding: 40px;
+}
